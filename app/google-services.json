@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278571277015",
+    "project_id": "smartdairy-2f1a8",
+    "storage_bucket": "smartdairy-2f1a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278571277015:android:325bb2b3567f0096ff2e92",
+        "android_client_info": {
+          "package_name": "com.example.smartdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278571277015-g87542v0p3prnikcpuru6s1p7uc11jvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvxicXzvSQg0fEHiXdYpwRT7MX0E6vuFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278571277015-g87542v0p3prnikcpuru6s1p7uc11jvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
